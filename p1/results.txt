@@ -1,0 +1,19 @@
+Scores from p1 for You need to create an authors.csv file!!!! No one will receive credit for this assignment
+
+Addresses used: .@ucdavis.edu
+ 
+Timetest testing:
+timetest.cpp operation testing:
+#1 for user input: 
+Not OK, CPU time outside acceptable range
+
+#2 for user input: 
+Not OK, CPU time outside acceptable range
+
+#3 for user input: 
+Not OK, CPU time outside acceptable range
+
+#4 for user input: 
+Not OK, CPU time outside acceptable range
+
+#5 for user input: 

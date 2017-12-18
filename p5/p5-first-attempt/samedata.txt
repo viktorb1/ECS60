@@ -1,0 +1,89 @@
+City Id: 0
+Road ID: 12, People per hour: 191
+Road ID: 15, People per hour: 149
+Road ID: 24, People per hour: 135
+Road ID: 32, People per hour: 311
+Road ID: 61, People per hour: 171
+Road ID: 68, People per hour: 489
+Road ID: 73, People per hour: 354
+City Id: 1
+Road ID: 0, People per hour: 193
+Road ID: 3, People per hour: 259
+Road ID: 23, People per hour: 82
+Road ID: 25, People per hour: 135
+Road ID: 31, People per hour: 104
+Road ID: 39, People per hour: 97
+Road ID: 41, People per hour: 88
+Road ID: 49, People per hour: 344
+City Id: 2
+Road ID: 6, People per hour: 207
+Road ID: 9, People per hour: 287
+Road ID: 28, People per hour: 339
+Road ID: 36, People per hour: 679
+Road ID: 48, People per hour: 344
+Road ID: 54, People per hour: 275
+Road ID: 67, People per hour: 266
+Road ID: 75, People per hour: 368
+City Id: 3
+Road ID: 4, People per hour: 124
+Road ID: 7, People per hour: 207
+Road ID: 18, People per hour: 172
+Road ID: 22, People per hour: 82
+Road ID: 26, People per hour: 223
+Road ID: 33, People per hour: 311
+Road ID: 35, People per hour: 102
+Road ID: 43, People per hour: 189
+Road ID: 51, People per hour: 187
+City Id: 4
+Road ID: 10, People per hour: 99
+Road ID: 13, People per hour: 191
+Road ID: 29, People per hour: 339
+Road ID: 50, People per hour: 187
+Road ID: 56, People per hour: 497
+Road ID: 62, People per hour: 118
+Road ID: 64, People per hour: 276
+Road ID: 70, People per hour: 93
+City Id: 5
+Road ID: 16, People per hour: 108
+Road ID: 40, People per hour: 88
+Road ID: 42, People per hour: 189
+Road ID: 47, People per hour: 82
+Road ID: 66, People per hour: 266
+Road ID: 71, People per hour: 93
+City Id: 6
+Road ID: 1, People per hour: 193
+Road ID: 21, People per hour: 274
+Road ID: 27, People per hour: 223
+Road ID: 37, People per hour: 679
+Road ID: 53, People per hour: 170
+Road ID: 57, People per hour: 497
+Road ID: 69, People per hour: 489
+City Id: 7
+Road ID: 14, People per hour: 149
+Road ID: 17, People per hour: 108
+Road ID: 30, People per hour: 104
+Road ID: 34, People per hour: 102
+Road ID: 44, People per hour: 111
+Road ID: 55, People per hour: 275
+Road ID: 63, People per hour: 118
+City Id: 8
+Road ID: 2, People per hour: 259
+Road ID: 5, People per hour: 124
+Road ID: 20, People per hour: 274
+Road ID: 58, People per hour: 188
+Road ID: 60, People per hour: 171
+Road ID: 65, People per hour: 276
+Road ID: 74, People per hour: 368
+City Id: 9
+Road ID: 8, People per hour: 287
+Road ID: 11, People per hour: 99
+Road ID: 19, People per hour: 172
+Road ID: 38, People per hour: 97
+Road ID: 45, People per hour: 111
+Road ID: 46, People per hour: 82
+Road ID: 52, People per hour: 170
+Road ID: 59, People per hour: 188
+Road ID: 72, People per hour: 354
+1
+CPU Time: 0
+Evacuated city ID 1 has 0 evacuees but a pop 4969
